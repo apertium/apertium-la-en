@@ -11,10 +11,16 @@
   <char value="a">
     <equiv-char value="ā"/>
   </char>
+  <char value="e">
+    <equiv-char value="ē"/>
+  </char>
   <char value="i">
     <equiv-char value="ī"/>
   </char>
   <char value="o">
     <equiv-char value="ō"/>
+  </char>
+  <char value="u">
+    <equiv-char value="ū"/>
   </char>
 </analysis-chars>
