@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+  <sdefs>
+     <sdef n="n"/>
+     <sdef n="pr"/>
+     <sdef n="np"/>
+
+     <sdef n="vblex"/>
+     <sdef n="vaux"/>
+     <sdef n="vbmod"/>
+
+     <sdef n="top"/>
+     <sdef n="al"/>
+     <sdef n="ant"/>
+
+     <sdef n="f"/>
+     <sdef n="nt"/>
+     <sdef n="m"/>
+  </sdefs>
+  <pardefs>
+  </pardefs>
+  <section id="main" type="standard">
+    <e><p><l>aqua<s n="n"/><s n="f"/></l><r>water<s n="n"/></r></p></e>
+    <e><p><l>abbatia<s n="n"/><s n="f"/></l><r>abbey<s n="n"/></r></p></e>
+    <e><p><l>absentia<s n="n"/><s n="f"/></l><r>absense<s n="n"/></r></p></e>
+    <e><p><l>acta<s n="n"/><s n="f"/></l><r>holiday<s n="n"/></r></p></e>
+    <e><p><l>agricultura<s n="n"/><s n="f"/></l><r>agriculture<s n="n"/></r></p></e>
+    <e><p><l>ala<s n="n"/><s n="f"/></l><r>wing<s n="n"/></r></p></e>
+    <e><p><l>alea<s n="n"/><s n="f"/></l><r>die<s n="n"/></r></p></e>
+    <e><p><l>amica<s n="n"/><s n="f"/></l><r>friend<s n="n"/></r></p></e>
+    <e><p><l>amicitia<s n="n"/><s n="f"/></l><r>friendship<s n="n"/></r></p></e>
+    <e c="Paternal"><p><l>amita<s n="n"/><s n="f"/></l><r>aunt<s n="n"/></r></p></e>
+    <e c="Paternal"><p><l>amitina<s n="n"/><s n="f"/></l><r>cousin<s n="n"/></r></p></e>
+    <e><p><l>anima<s n="n"/><s n="f"/></l><r>spirit<s n="n"/></r></p></e>
+    <e><p><l>ansa<s n="n"/><s n="f"/></l><r>handle<s n="n"/></r></p></e>
+    <e><p><l>antenna<s n="n"/><s n="f"/></l><r>flagpole<s n="n"/></r></p></e>
+    <e><p><l>aquila<s n="n"/><s n="f"/></l><r>eagle<s n="n"/></r></p></e>
+    <e><p><l>ara<s n="n"/><s n="f"/></l><r>altar<s n="n"/></r></p></e>
+    <e><p><l>area<s n="n"/><s n="f"/></l><r>area<s n="n"/></r></p></e>
+    <e slr="arena D"><p><l>arena<s n="n"/><s n="f"/></l><r>arena<s n="n"/></r></p></e>
+    <e slr="sand"><p><l>arena<s n="n"/><s n="f"/></l><r>sand<s n="n"/></r></p></e>
+    <e><p><l>arca<s n="n"/><s n="f"/></l><r>chest<s n="n"/></r></p></e>
+    <e><p><l>ardea<s n="n"/><s n="f"/></l><r>heron<s n="n"/></r></p></e>
+    <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/></r></p></e>
+    <e><p><l>aristocratia<s n="n"/><s n="f"/></l><r>aristocracy<s n="n"/></r></p></e>
+    <e><p><l>filia<s n="n"/><s n="f"/></l><r>daughter<s n="n"/></r></p></e>
+    <e><p><l>aspilogia<s n="n"/><s n="f"/></l><r>coat<g><b/>of<b/>arms</g><s n="n"/></r></p></e>
+    <e><p><l>barba<s n="n"/><s n="f"/></l><r>beard<s n="n"/></r></p></e>
+    <e slr="berry D"><p><l>baca<s n="n"/><s n="f"/></l><r>berry<s n="n"/></r></p></e>
+    <e slr="pearl"><p><l>baca<s n="n"/><s n="f"/></l><r>pearl<s n="n"/></r></p></e>
+
+    <e><p><l>agricola<s n="n"/><s n="m"/></l><r>farmer<s n="n"/></r></p></e>
+    <e><p><l>pirata<s n="n"/><s n="m"/></l><r>pirate<s n="n"/></r></p></e>
+    <e><p><l>nauta<s n="n"/><s n="m"/></l><r>sailor<s n="n"/></r></p></e>
+    <e><p><l>scriba<s n="n"/><s n="m"/></l><r>scribe<s n="n"/></r></p></e>
+    <e><p><l>propheta<s n="n"/><s n="m"/></l><r>prophet<s n="n"/></r></p></e>
+    <e><p><l>auriga<s n="n"/><s n="m"/></l><r>charioteer<s n="n"/></r></p></e>
+    <e><p><l>poeta<s n="n"/><s n="m"/></l><r>poet<s n="n"/></r></p></e>
+
+    <e><p><l>murus<s n="n"/><s n="m"/></l><r>wall<s n="n"/></r></p></e>
+
+    <e><p><l>bellum<s n="n"/><s n="nt"/></l><r>war<s n="n"/></r></p></e>
+    <e><p><l>antidotum<s n="n"/><s n="nt"/></l><r>antidote<s n="n"/></r></p></e>
+    <e><p><l>argentum<s n="n"/><s n="nt"/></l><r>silver<s n="n"/></r></p></e>
+    <e><p><l>reliquum<s n="n"/><s n="nt"/></l><r>remainder<s n="n"/></r></p></e>
+    <e><p><l>cerebellum<s n="n"/><s n="nt"/></l><r>cerebellum<s n="n"/></r></p></e>
+    <e><p><l>theatrum<s n="n"/><s n="nt"/></l><r>theatre<s n="n"/></r></p></e>
+    <e><p><l>amphitheatrum<s n="n"/><s n="nt"/></l><r>amphitheatre<s n="n"/></r></p></e>
+
+    <e><p><l>Iulius<s n="np"/><s n="ant"/></l><r>Julius<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Brutus<s n="np"/><s n="ant"/></l><r>Brutus<s n="np"/><s n="ant"/></r></p></e>
+  </section>
+</dictionary>
