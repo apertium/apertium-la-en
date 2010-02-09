@@ -1,3 +1,4 @@
 * text=auto !eol
 /apertium-la-en.la-en.dix -text
+/apertium-la-en.la.acx -text
 /apertium-la-en.la.dix -text
