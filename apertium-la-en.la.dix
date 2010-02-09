@@ -27,7 +27,7 @@
  
 -->
 <dictionary>
-  <alphabet></alphabet>
+  <alphabet>ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzŀl</alphabet>
   <sdefs>
     <sdef n="n"/>
     <sdef n="m"/>
@@ -50,6 +50,9 @@
     <sdef n="pr"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
+
+    <sdef n="adv"/>
+    <sdef n="enc"/>
   </sdefs>
   <pardefs>
     <!-- Prepositions -->  
