@@ -27,7 +27,7 @@
  
 -->
 <dictionary>
-  <alphabet>ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzŀl</alphabet>
+  <alphabet>ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzŀlāēīōū</alphabet>
   <sdefs>
     <sdef n="n"/>
     <sdef n="m"/>
@@ -81,7 +81,9 @@
     <sdef n="pii"/>
     <sdef n="pis"/>
     <sdef n="pprs"/>
+    <sdef n="pp"/>
     <sdef n="act"/>
+    <sdef n="psv"/>
 
     <sdef n="p1"/>
     <sdef n="p2"/>
@@ -4507,6 +4509,7 @@
 
     <e lm="esse"><i></i><par n="/esse__vbser"/></e>
     <e lm="ire"><i></i><par n="/ire__vblex"/></e>
+    <e lm="amare"><i>am</i><par n="am/are__vblex"/></e>
 
     <e a="agfl-lat" lm="antequam"><i>antequam</i><par n="ut__cnjsub"/></e>
     <e a="agfl-lat" lm="cur"><i>cur</i><par n="ut__cnjsub"/></e>
