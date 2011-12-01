@@ -2,3 +2,5 @@
 /apertium-la-en.la-en.dix -text
 /apertium-la-en.la.acx -text
 /apertium-la-en.la.dix -text
+dev/freedict-en-la.dix -text
+dev/freedict-la-en.dix -text
